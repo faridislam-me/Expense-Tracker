@@ -1,30 +1,17 @@
-# Expense Tracker
+# expense_tracker
 
-**Expense Tracker** is a stylish and modern Flutter app for managing personal, family, and project expenses. Built with **Firebase** for authentication, real-time database, and notifications, and **Cloudinary** for receipt image uploads.
-
-## Features
-
-- Multi-account system (Personal, Family, Projects)
-- Monthly and Continuous tracking
-- Role-based access: Owner, Editor, Viewer
-- Add/Edit/Delete Expenses with category and description
-- Attach receipts via Cloudinary
-- Real-time updates for members
-- Built-in chat per account
-- Budget tracking with alerts and notifications
-- Modern UI/UX with charts and progress indicators
-
-## Tech Stack
-
-- Flutter (cross-platform mobile)
-- Firebase Auth & Firestore
-- Firebase Cloud Messaging
-- Cloudinary (image uploads)
-- Provider / Riverpod for state management
+A new Flutter project.
 
 ## Getting Started
 
-1. Clone the repository
-2. Setup Firebase project
-3. Configure Cloudinary account
-4. Run `flutter pub get` and `flutter run`
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
+- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
