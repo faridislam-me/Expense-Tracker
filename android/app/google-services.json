@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "944607586667",
+    "project_id": "expense-tracker-farid",
+    "storage_bucket": "expense-tracker-farid.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944607586667:android:7e507ab25abf6564d9c42e",
+        "android_client_info": {
+          "package_name": "com.expensetracker.expense_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOzS04jNe5sevUjR-rzSXKbmneHEU8Ak4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

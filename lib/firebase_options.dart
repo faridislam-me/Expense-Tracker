@@ -1,6 +1,3 @@
-// This file is a placeholder. Run `flutterfire configure` to generate the real one.
-// After running, this file will be replaced with your actual Firebase configuration.
-
 import 'package:firebase_core/firebase_core.dart' show FirebaseOptions;
 import 'package:flutter/foundation.dart'
     show defaultTargetPlatform, TargetPlatform;
@@ -19,21 +16,20 @@ class DefaultFirebaseOptions {
     }
   }
 
-  // TODO: Replace with your actual Firebase config from `flutterfire configure`
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'YOUR_API_KEY',
-    appId: 'YOUR_APP_ID',
-    messagingSenderId: 'YOUR_SENDER_ID',
-    projectId: 'YOUR_PROJECT_ID',
-    storageBucket: 'YOUR_STORAGE_BUCKET',
+    apiKey: 'AIzaSyAOzS04jNe5sevUjR-rzSXKbmneHEU8Ak4',
+    appId: '1:944607586667:android:7e507ab25abf6564d9c42e',
+    messagingSenderId: '944607586667',
+    projectId: 'expense-tracker-farid',
+    storageBucket: 'expense-tracker-farid.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'YOUR_API_KEY',
-    appId: 'YOUR_APP_ID',
-    messagingSenderId: 'YOUR_SENDER_ID',
-    projectId: 'YOUR_PROJECT_ID',
-    storageBucket: 'YOUR_STORAGE_BUCKET',
+    apiKey: 'AIzaSyCRGTwDAiC6TEhRVIKXN7t3nvaU_zAKfvc',
+    appId: '1:944607586667:ios:26e7a651a33e71a4d9c42e',
+    messagingSenderId: '944607586667',
+    projectId: 'expense-tracker-farid',
+    storageBucket: 'expense-tracker-farid.firebasestorage.app',
     iosBundleId: 'com.expensetracker.expenseTracker',
   );
 }
