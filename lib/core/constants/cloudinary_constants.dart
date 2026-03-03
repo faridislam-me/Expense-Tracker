@@ -2,10 +2,9 @@ class CloudinaryConstants {
   CloudinaryConstants._();
 
   // Replace with your Cloudinary cloud name
-  static const String cloudName = 'YOUR_CLOUD_NAME';
+  static const String cloudName = 'defisxnj1';
 
-  // Replace with your unsigned upload preset
-  static const String uploadPreset = 'YOUR_UPLOAD_PRESET';
+  static const String uploadPreset = 'expense_tracker';
 
   static const String uploadUrl =
       'https://api.cloudinary.com/v1_1/$cloudName/image/upload';
